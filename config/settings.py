@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'whitenoise.runserver_nostatic',  # new
+    # 'whitenoise.runserver_nostatic',  # new
     'django.contrib.staticfiles',
     # custom apps
     'pages.apps.PagesConfig'
