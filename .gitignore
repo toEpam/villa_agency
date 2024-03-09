@@ -1,12 +1,10 @@
-.idea
 .vercel
 *.log
 *.pyc
 __pycache__
-# db.sqlite3
+db.sqlite3
 media
-# staticfiles
-# productionfiles
+
 # Environments
 .env
 .venv
@@ -14,3 +12,4 @@ env/
 venv/
 ENV/
 env.bak/
+venv.bak/
