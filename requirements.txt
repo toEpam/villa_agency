@@ -5,3 +5,4 @@ psycopg2-binary
 django-jazzmin==2.6.0
 django-import-export==3.3.7
 whitenoise
+drf-yasg
